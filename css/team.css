@@ -1,0 +1,29 @@
+.team {
+    background-color: rgba(244, 244, 253, 1);
+}
+
+.sr-only-team {
+    font-weight: 700;
+    font-size: 36px;
+    font-style: Bold;
+    line-height: 40px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+.custom-heading {
+color: rgba(46, 47, 66, 1);
+font-weight:500;
+font-size: 20px;
+font-style: Medium;
+line-height: 24px;
+letter-spacing: 2%;
+text-align: center;
+}
+.description {
+font-weight:400;
+ font-size: 16px;
+font-style: Regular;
+line-height: 24px;
+letter-spacing: 2%;
+text-align: center;
+}

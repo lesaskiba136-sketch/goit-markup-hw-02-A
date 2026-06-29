@@ -1,0 +1,17 @@
+ .hero {
+    background-color: rgba(46, 47, 66, 1);
+ }
+
+.title {
+ color: rgba(255, 255, 255, 1);   
+ font-weight:700;
+ font-size: 56px;
+ font-style: Bolt;
+ line-height: 60px;
+ letter-spacing: 2%;
+ text-align: center;
+}
+.button {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(77, 90, 229, 1);
+}
