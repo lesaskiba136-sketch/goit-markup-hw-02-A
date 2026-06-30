@@ -1,15 +1,21 @@
 .sr-only {
 font-weight:500;
 font-size: 20px;
-font-style: Medium;
-line-height: 24px;
-letter-spacing: 2%;
+font-style:normal;
+line-height: 1,2;
+letter-spacing: 0.02em;
 }
 .text-large {
 font-weight: 400;
 font-size: 16px;
-font-style: Regular;
-line-height: 24px;
-letter-spacing: 2%;
+font-style:normal;
+line-height: 1,5;
+letter-spacing: 0.02em;
+}
+.title-large {
+font-weight:500;
+font-size: 20px ;
+line-height: 1,2;
+letter-spacing: 0.02em;
 
 }

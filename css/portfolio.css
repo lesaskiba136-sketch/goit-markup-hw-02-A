@@ -2,16 +2,16 @@
     color: rgba(46, 47, 66, 1);
     font-weight: 700;
     font-size: 36px;
-    font-style: Bold;
-    line-height: 40px;
-    letter-spacing: 2%;
+    font-style:normal;
+    line-height: 1,1;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 .custom-heading-new {
 color: rgba(46, 47, 66, 1);
 font-weight: 500;
 font-size: 20px;
-font-style: Medium;
-line-height: 24px;
-letter-spacing: 2%;
+font-style:normal;
+line-height: 1,2;
+letter-spacing: 0.02em;
 }

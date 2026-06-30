@@ -4,23 +4,25 @@
     font-weight: 700;
     line-height: 1.33;
     letter-spacing: 0.03em;
-    font-family: 'Railway', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: #2E2F42;
 }
 .header-logo {
     color: rgba(46, 47, 66, 1);
 }
 .hero-link {
+    color: #404bbf;
 line-height: 24px ;
-font-size: 16px;
-letter-spacing: 2%;
+font-size: 1,5;
+letter-spacing: 0.02em;
 font-weight:500;
 
 }
 .hero-contacts {
-   line-height: 24px; 
-   letter-spacing: 2%;
-   font-style: Regular;
+    color: #404bbf;
+   line-height: 1,5; 
+   letter-spacing: 0.02em;
+   font-style:normal;
    font-size: 16px;
    font-weight:400;
 }
