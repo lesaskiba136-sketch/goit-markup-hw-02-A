@@ -1,21 +1,22 @@
 .team {
-    background-color: rgba(244, 244, 253, 1);
+    background-color: #f4f4fd;
 }
 
 .sr-only-team {
     font-weight: 700;
     font-size: 36px;
     font-style: Bold;
-    line-height: 1,1;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #2e2f42;
 }
 .custom-heading {
 color: rgba(46, 47, 66, 1);
 font-weight:500;
 font-size: 20px;
 font-style: Medium;
-line-height: 1,2;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 }
@@ -23,7 +24,7 @@ text-align: center;
 font-weight:400;
  font-size: 16px;
 font-style: Regular;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 }
