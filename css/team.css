@@ -1,5 +1,5 @@
 .team {
-    background-color: #f4f4fd;
+   background-color:  rgba(244, 244, 253, 1);
 }
 
 .sr-only-team {
@@ -19,6 +19,7 @@ font-style: Medium;
 line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
+
 }
 .description {
 font-weight:400;
@@ -27,4 +28,10 @@ font-style: Regular;
 line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
+
 }
+
+.image-card {
+    background-color: #ffffff
+}
+

@@ -1,6 +1,5 @@
  .hero {
     background-color: rgba(46, 47, 66, 1);
-    cursor: pointer;
  }
 
 .title {
@@ -13,8 +12,8 @@
  text-align: center;
 }
 
-.button:hover,
-.button:focus {
-    color: rgba(255, 255, 255, 1);
-    background-color: rgba(77, 90, 229, 1);
+.button {
+    color: #fff;
+    background-color: #4d5ae5;
+    cursor: pointer;
 }
